@@ -1,4 +1,4 @@
-# Audio-Visual Grouping Network for Sound Localization from Mixtures
+# [CVPR-2023] Audio-Visual Grouping Network for Sound Localization from Mixtures
 
 AVGN is a new approach for disentangling category-wise semantic features for each source from the mixture and image to localize multiple sounding sources simultaneously.
 
